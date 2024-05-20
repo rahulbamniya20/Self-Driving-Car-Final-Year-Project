@@ -10,7 +10,7 @@
 
 ## 📌 Introduction
 
-This project presents the development of an artificial agent capable of playing a car racing game using advanced reinforcement learning techniques. Our aim was to create an intelligent agent that can navigate and control a car in various racing environments efficiently, adapting to different tracks and optimizing its performance over time.
+This project presents the development of an artificial agent capable of playing a car racing game using advanced reinforcement learning techniques. We aimed to create an intelligent agent that can efficiently navigate and control a car in various racing environments, adapting to different tracks and optimizing its performance over time.
 
 ---
 
@@ -29,7 +29,7 @@ This project presents the development of an artificial agent capable of playing 
 
 ## 🎯 Problem Statement
 
-The challenge was to develop an AI that can successfully navigate and control a car in a simulated racing environment, dealing with diverse tracks and dynamically changing conditions to maintain high performance and learning efficiency.
+The challenge was to develop an AI that could successfully navigate and control a car in a simulated racing environment, dealing with diverse tracks and dynamically changing conditions to maintain high performance and learning efficiency.
 
 ---
 
@@ -94,7 +94,7 @@ A comprehensive list of all studies, tools, and frameworks referenced throughout
 
 ## 🙏 Acknowledgements
 
-A journey of a thousand miles begins with a single step, and this project was no different. It's with a profound sense of appreciation that we extend our deepest thanks to Dr. A Sudarshan Chakravarthy, whose expert guidance illuminated our path at every challenging turn and pivotal moment. His wisdom transformed daunting obstacles into stepping stones towards our success.
+A journey of a thousand miles begins with a single step, and this project was no different. With profound appreciation, we extend our deepest thanks to Dr. A Sudarshan Chakravarthy, whose expert guidance illuminated our path at every challenging turn and pivotal moment. His wisdom transformed daunting obstacles into stepping stones toward our success.
 
 We're also indebted to our peers and the vibrant community at the National Institute of Technology Calicut, whose spirited collaboration and insightful feedback enriched this endeavor beyond measure.
 
