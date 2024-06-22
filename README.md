@@ -94,7 +94,7 @@ A comprehensive list of all studies, tools, and frameworks referenced throughout
 
 ## 🙏 Acknowledgements
 
-A journey of a thousand miles begins with a single step, and this project was no different. With profound appreciation, we extend our deepest thanks to Dr. A Sudarshan Chakravarthy, whose expert guidance illuminated our path at every challenging turn and pivotal moment. His wisdom transformed daunting obstacles into stepping stones toward our success.
+A journey of a thousand miles begins with a single step, and this project was no different. With profound appreciation, we extend our deepest thanks to **Dr. A Sudarshan Chakravarthy**, whose expert guidance illuminated our path at every challenging turn and pivotal moment. His wisdom transformed daunting obstacles into stepping stones toward our success.
 
 We're also indebted to our peers and the vibrant community at the National Institute of Technology Calicut, whose spirited collaboration and insightful feedback enriched this endeavor beyond measure.
 
